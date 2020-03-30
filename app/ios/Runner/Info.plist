@@ -41,5 +41,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera is used to do live preview</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Gallery is used to do img req</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone because why not</string>
 </dict>
 </plist>
